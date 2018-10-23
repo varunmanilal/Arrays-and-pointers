@@ -1,5 +1,7 @@
+//the library file
 #include <iostream>
 using namespace std;
+//to find the sum of the elements
 void func(int arr[],int i,int sum)
 {
         while(i<5){
@@ -9,7 +11,7 @@ void func(int arr[],int i,int sum)
 
 cout<<sum<<endl;
 }
-
+//the main function
 int main()
 {
    int arr[5]={23,67,41,3,14};

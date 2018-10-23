@@ -1,5 +1,7 @@
+//the library file
 #include <iostream>
 using namespace std;
+//to kind the kth largest number
 int no(int arr[])
 {
 for(int i=0;i<7;i++)
@@ -15,6 +17,7 @@ for(int i=0;i<7;i++)
 }
 }
 }
+//to find the kth smallest number
 int no2(int arr[])
 {
 for(int i=0;i<7;i++)
@@ -30,6 +33,7 @@ for(int i=0;i<7;i++)
 }
 }
 }
+//the main function
 int main()
 {int n;int m;
 int arr[7]={7,65,34,27,28,58,99};

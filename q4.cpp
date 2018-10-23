@@ -1,6 +1,7 @@
+//the library file
 #include<iostream>
 using namespace std;
-
+//to merge the 2 arrays
 void f(int a[],int b[], int c[])
 {
 
@@ -14,7 +15,7 @@ void f(int a[],int b[], int c[])
 
 }
 
-
+//the main function
 int main()
 {
 

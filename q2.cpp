@@ -1,5 +1,7 @@
+//include the library file
 #include <iostream>
 using namespace std;
+//to find the largest element
 void func(int arr[],int i,int a)
 {
 	while(i<7)
@@ -13,7 +15,7 @@ void func(int arr[],int i,int a)
 }
 cout<<a<<endl;
 }
-
+//to find the smallest element
 void low(int arr[],int i, int b)
 {	while(i<7)
 {
@@ -25,7 +27,7 @@ i++;
 }
 cout<<b<<endl;
 }
-
+//to find the mean
 void mean(int arr[],int sum,int i)
 {
 while(i<7)
@@ -35,6 +37,7 @@ while(i<7)
 }	
 	cout<<sum/7<<endl;
 }
+//to find the median and frequency
 int median(int arr[])
 {
 for(int i=0;i<7;i++)
@@ -51,6 +54,7 @@ for(int i=0;i<7;i++)
 }
 cout<<arr[3]<<endl;
 }
+//the main function
 int main()
 {
 int arr[7]={1,65,39,17,28,52,66};
@@ -60,3 +64,4 @@ mean(arr,0,0);
 median(arr);
 return 0;
 }
+//done

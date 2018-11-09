@@ -1,4 +1,4 @@
-//taking up the library files
+//taking up the library files.
 #include<iostream>
 using namespace std;
 //The main files

@@ -1,4 +1,4 @@
-// Taking up the libraries
+// Taking up the libraries.
 #include <iostream>
 
 using namespace std;

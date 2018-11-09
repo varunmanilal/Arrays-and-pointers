@@ -1,4 +1,4 @@
-//Include the library file
+//Include the library file.
 #include<iostream>
 using namespace std;
 //main function

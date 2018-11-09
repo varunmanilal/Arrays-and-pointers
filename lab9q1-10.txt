@@ -5,7 +5,7 @@
 2.
 	D. *p = 75;
 3.
-	double pointer is pointing to a char
+	double pointer is pointing to a char.
 4. 
 	int main()
 	{

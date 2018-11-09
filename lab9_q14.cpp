@@ -1,4 +1,4 @@
-//The library files are included
+//The library files are included.
 #include<iostream>
 using namespace std;
 #include<cstring>
